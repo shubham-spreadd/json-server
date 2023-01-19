@@ -1,0 +1,27 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "JSON placeholder API",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-spreadd/json-server.git"
+  },
+  "keywords": [
+    "JSON",
+    "Server"
+  ],
+  "author": "shubham.mehra@spreadd.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-spreadd/json-server/issues"
+  },
+  "homepage": "https://github.com/shubham-spreadd/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
