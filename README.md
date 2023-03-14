@@ -15,6 +15,6 @@ Then perform `npm start` to get your server UP & running.
 ## Documentation
 
 You can follow 
-[JSON Server](https://linktodocumentation)
+[JSON Server](https://www.npmjs.com/package/json-server)
 for reference on handling REST routes using this server.
 
