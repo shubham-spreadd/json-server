@@ -14,7 +14,12 @@ This project contains basic API setup using JSON placeholder.
 Then perform `npm start` to get your server UP & running.
 ## Documentation
 
-You can follow 
+Once installation is complete you need to run command 
+
+```bash
+json-server --watch db.json
+```
+
+Further you can follow 
 [JSON Server](https://www.npmjs.com/package/json-server)
 for reference on handling REST routes using this server.
-
